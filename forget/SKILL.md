@@ -2,6 +2,7 @@
 name: forget
 description: Forget a Claude Code session - close Claude and move every trace of the current session (transcript, prompt history, file history, pastes, plans, scratchpad) to the Bin, or list and forget past sessions. Only when the user types /forget.
 disable-model-invocation: true
+model: claude-haiku-5-5
 argument-hint: "[list [--all] | <session-id>... | --older-than <days>]"
 ---
 
