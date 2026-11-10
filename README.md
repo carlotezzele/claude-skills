@@ -12,6 +12,9 @@ My own skills for Claude Code. Put a folder in `~/.claude/skills/` to install it
   interactive questions, writes a professional `PROMPT.md` for Claude Opus 5.5 in a new
   `~/Code/<area>/<project>` folder, asks for confirmation, then starts an Opus session there
   (desktop app session, or a new Terminal window via `launch.sh`).
+- **homework/**: finds a homework document among the files shared on Google Classroom
+  (via Google Drive), checks whether the assignment is complete, and writes the answers
+  directly into the student's copy of the Google Doc, in a natural student style (Italian).
 
 ## License
 
