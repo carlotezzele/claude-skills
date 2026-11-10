@@ -1,0 +1,7 @@
+# Track only my own skills; everything else here is installed from elsewhere
+/*
+!/.gitignore
+!/README.md
+!/forget/
+!/cleanup/
+.DS_Store
